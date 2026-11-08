@@ -281,6 +281,11 @@ hash = "30363120fe03ff64a2171151b575b542d80c34548de80c28ca1c1393842a5c7c"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons-3-3-3-1-21-1-fabric-neoforge.pw.toml"
+hash = "b4911286fbf7d850680364187456735b9e9a39daaa589a32671e797471f6b0a3"
+metafile = true
+
+[[files]]
 file = "mods/dndesires-1-21-1-2-3a-beta.pw.toml"
 hash = "fa85a26d555ee5120c5493b5a2572ebc572794445529f3216b767e17c0bfc619"
 metafile = true
