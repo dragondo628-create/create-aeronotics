@@ -1,0 +1,12 @@
+name = "3D Harnesses x Fresh Animations"
+filename = "3D Harness x Fresh Animations.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1OR06fW9/versions/yWar9HWU/3D%20Harness%20x%20Fresh%20Animations.zip"
+hash-format = "sha512"
+hash = "0f21bc77e514c4bc78d2bcf455326c541185424560558c219de87d39e64702223d1b413d0a3f0992dfafdfc29e04b42dc23067ac0de7ced54b5429918014050e"
+
+[update.modrinth]
+mod-id = "1OR06fW9"
+version = "yWar9HWU"

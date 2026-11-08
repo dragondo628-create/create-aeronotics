@@ -1,0 +1,1 @@
+https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fdragondo628-create%2Fcreate-aeronotics%2Fmain%2Fpack.toml&name=Create+Aeronotics&unsup=true&shared_by=DuelCell

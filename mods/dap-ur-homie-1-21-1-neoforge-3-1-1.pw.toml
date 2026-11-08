@@ -1,0 +1,12 @@
+name = "DAP ur Homies!"
+filename = "dap-ur-homie-1.21.1-neoforge-3.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V3QHTHDA/versions/2lJ9hXUx/dap-ur-homie-1.21.1-neoforge-3.1.1.jar"
+hash-format = "sha512"
+hash = "0c049d2cf3f8a85df9628ceec5df1a78398bf7f61f739bf27126f9f8d598d19687b947175bbbd6233f81e488ba43fe8eaac727f8c02aee8dc6e5d83446d18bdf"
+
+[update.modrinth]
+mod-id = "V3QHTHDA"
+version = "2lJ9hXUx"

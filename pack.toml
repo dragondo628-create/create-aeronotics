@@ -1,0 +1,14 @@
+name = "Create Aeronotics"
+author = ""
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "84ce1157a7a3d8edb02a6107ca597f87339e2e0e9824a1ee3a340a8db3f6b965"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
+unsup = "1.2.5"
