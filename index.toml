@@ -36,6 +36,11 @@ hash = "2c0bb26a14a923647ea820e718313c3b6bf45bcc793b1bcc63808da958aab58f"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib-1-21-1-neoforge-2-0-7.pw.toml"
+hash = "e7d9b9d1969557fdd14f0162e093d5113488eb78d476df4c2db3f410be128af7"
+metafile = true
+
+[[files]]
 file = "mods/ballastmod-0-1-1.pw.toml"
 hash = "63973972b5b830b499629682df9cc612148aeffcc26c6b69a151dff0572e2016"
 metafile = true
@@ -61,6 +66,11 @@ hash = "50039e5116f68dddffc4d9f5dfe0626aaa8098ff1d302edcc2eacdb815c24395"
 metafile = true
 
 [[files]]
+file = "mods/cbbees-1-6-1.pw.toml"
+hash = "9ebdb10237f6fa81818ed5c3cc8905d0466c890339cb0aa477eafe0a5021387e"
+metafile = true
+
+[[files]]
 file = "mods/chromeware-1-2-1.pw.toml"
 hash = "582b95f1bb08c8f15df126655f08cc6838bcc98a5179da2a65869b92af5bc0b2"
 metafile = true
@@ -83,6 +93,16 @@ metafile = true
 [[files]]
 file = "mods/copycats-3-0-9-mc-1-21-1-neoforge.pw.toml"
 hash = "3abb84b2b2823d74b2819ae31504dcf573dbd196a149116f04a264ff080932b1"
+metafile = true
+
+[[files]]
+file = "mods/corpse-neoforge-1-21-1-1-1-22.pw.toml"
+hash = "87d71f90301331033338152ad79c6a1f0ec39a4527af6ac1584e2e5309d83f07"
+metafile = true
+
+[[files]]
+file = "mods/corpsecurioscompat-1-21-1-neoforge-4-2-0.pw.toml"
+hash = "62c2d7980b256def434dfcec1d217034ba85a1034a365c649cf720efcbdbfc30"
 metafile = true
 
 [[files]]
@@ -286,6 +306,11 @@ hash = "3b65f379bda60873e9bf9e28a6941bd2604380692079378767bd2237fa14cf92"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-neoforge-1-21-1-4-9-3.pw.toml"
+hash = "0721a11493ab6f6359d8c74b765797e9e82d6bf357387c63cacaf9b77afa73ec"
+metafile = true
+
+[[files]]
 file = "mods/interiors-1-21-1-neoforge-0-6-1.pw.toml"
 hash = "bb1882f0607681c2ad3dc85dc036234fe37dfaf4e86ed6f75909ed27247038da"
 metafile = true
@@ -298,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/jade-1-21-1-neoforge-15-10-6.pw.toml"
 hash = "eb93a038dcc7b47fd1973e7d5e23698f6a61a9daf67771bc932a253ebb7f0dac"
+metafile = true
+
+[[files]]
+file = "mods/kotlinforforge-5-12-0-all.pw.toml"
+hash = "f64a8b997266baea7cbe3add24c60700bf635ed2cd43bcff5a45fbcef5f15ca9"
 metafile = true
 
 [[files]]
