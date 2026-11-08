@@ -51,11 +51,6 @@ hash = "50039e5116f68dddffc4d9f5dfe0626aaa8098ff1d302edcc2eacdb815c24395"
 metafile = true
 
 [[files]]
-file = "mods/carryonaerocompat-1-21-1-1-1-1.pw.toml"
-hash = "c568b9792186cd5feabaad59d2974b21a32385403e282615a9a61b20db05b220"
-metafile = true
-
-[[files]]
 file = "mods/cbbees-1-6-1.pw.toml"
 hash = "9ebdb10237f6fa81818ed5c3cc8905d0466c890339cb0aa477eafe0a5021387e"
 metafile = true

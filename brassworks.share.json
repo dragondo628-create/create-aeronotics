@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create Aeronotics",
   "author": "",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "selection": {
     "mods": [
       "resourcepacks/3D Harness x Fresh Animations.zip",
@@ -173,7 +173,6 @@
       "mods/balm-neoforge-1.21.1-21.0.67.jar",
       "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
       "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
-      "mods/CarryOnAeroCompat-1.21.1-1.1.1.jar",
       "mods/climbable_ropes-2.2.1.jar",
       "mods/cloth-config-15.0.140-neoforge.jar",
       "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
