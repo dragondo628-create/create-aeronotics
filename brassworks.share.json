@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create Aeronotics",
   "author": "",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "selection": {
     "mods": [
       "resourcepacks/3D Harness x Fresh Animations.zip",
@@ -136,7 +136,8 @@
       "mods/corpsecurioscompat-1.21.1-NeoForge-4.2.0.jar",
       "mods/cbbees-1.6.1.jar",
       "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
-      "mods/kotlinforforge-5.12.0-all.jar"
+      "mods/kotlinforforge-5.12.0-all.jar",
+      "resourcepacks/Fluid & Foolish 1.0.1.zip"
     ],
     "files": [
       "kubejs/README.txt",
@@ -212,6 +213,7 @@
       "mods/enchdesc-neoforge-1.21.1-21.1.11.jar",
       "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
       "mods/ferritecore-7.0.3-neoforge.jar",
+      "resourcepacks/Fluid & Foolish 1.0.1.zip",
       "resourcepacks/FreshAnimations_v1.11.2_1.20+.zip",
       "resourcepacks/FA+Classic_Horses-v1.5.zip",
       "resourcepacks/FA+Creepers-v2.2.zip",

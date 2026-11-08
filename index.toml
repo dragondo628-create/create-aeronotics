@@ -570,6 +570,11 @@ hash = "077eaec38a5e51c65b169c9f05c4e2eb612f24df9ef03a61d86269daf3f2f389"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fluid-foolish-1-0-1.pw.toml"
+hash = "ea99ad9b3ab947b0364f3b502ada4d881d138fcf9a363927d8169d544541ff01"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-ores-and-ingots.pw.toml"
 hash = "30147386b1b14456e5a62985f79edb630f006f847669c3152487ba4f0822ffbf"
 metafile = true
