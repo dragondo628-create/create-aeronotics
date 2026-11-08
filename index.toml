@@ -46,6 +46,11 @@ hash = "63973972b5b830b499629682df9cc612148aeffcc26c6b69a151dff0572e2016"
 metafile = true
 
 [[files]]
+file = "mods/balm-neoforge-1-21-1-21-0-67.pw.toml"
+hash = "be219c8f4f512a498515b7c723ce119af16aa1ddb362206a5b8974cf343d5fb5"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles-0-4-7-1-21-1.pw.toml"
 hash = "3143395e066b3d12e7f940e681eedc912f0ab4d1ad12d0d81e12f647151ac708"
 metafile = true
@@ -313,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/interiors-1-21-1-neoforge-0-6-1.pw.toml"
 hash = "bb1882f0607681c2ad3dc85dc036234fe37dfaf4e86ed6f75909ed27247038da"
+metafile = true
+
+[[files]]
+file = "mods/inventoryessentials-neoforge-1-21-1-21-1-20.pw.toml"
+hash = "f37c6c6dfa0c877924c463f3351819d62805ee594a8f2d8191ce9a135ea9a940"
 metafile = true
 
 [[files]]
