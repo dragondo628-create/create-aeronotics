@@ -46,21 +46,6 @@ hash = "3143395e066b3d12e7f940e681eedc912f0ab4d1ad12d0d81e12f647151ac708"
 metafile = true
 
 [[files]]
-file = "mods/better-advanced-tooltips-2101-1-0-build-5.pw.toml"
-hash = "aa58c4c34267bf4b96ef93885550168fa22da903058c8214fe8a8d7e4054a4ec"
-metafile = true
-
-[[files]]
-file = "mods/bettercombat-neoforge-2-4-0-1-21-1.pw.toml"
-hash = "5cd9c787064b0396c8c6161600d5ab300dff437a44fb833493fc8b9c8b269112"
-metafile = true
-
-[[files]]
-file = "mods/betterf3-11-0-3-neoforge-1-21-1.pw.toml"
-hash = "6be40d26a96fce2db4809e468f6d4d4b84ecdb1b9a52e1716c97739f9538e7cf"
-metafile = true
-
-[[files]]
 file = "mods/bigcontraptions-neoforge-1-0.pw.toml"
 hash = "619870c1577c4209428557357fb404843bb877fcbfad832e989b8d1f68485901"
 metafile = true
@@ -73,11 +58,6 @@ metafile = true
 [[files]]
 file = "mods/carryon-neoforge-1-21-1-2-2-6-13.pw.toml"
 hash = "50039e5116f68dddffc4d9f5dfe0626aaa8098ff1d302edcc2eacdb815c24395"
-metafile = true
-
-[[files]]
-file = "mods/chat-heads-0-15-7-neoforge-1-21.pw.toml"
-hash = "8d3df6034a3533d724c73091e2bf57c23ea1c2f8aaee00838d73fb8b38b18b17"
 metafile = true
 
 [[files]]
@@ -96,23 +76,8 @@ hash = "af9583d6cd53377057a58affdb4d3a529c2b08319029b9cb7f9c98d4cd07f71c"
 metafile = true
 
 [[files]]
-file = "mods/connector-2-0-0-beta-17-1-21-1-full.pw.toml"
-hash = "f7d25a79f373eb49f102beacf3fc6c5a30cccd0d2dc30c1cbcfaefeca57d4959"
-metafile = true
-
-[[files]]
-file = "mods/continuity-3-0-0-1-21-neoforge.pw.toml"
-hash = "5a0511c4ed25a5a71aa98fba840ae677f8cc30f75f6cc5af118173235decd065"
-metafile = true
-
-[[files]]
 file = "mods/controlling-neoforge-1-21-1-19-0-5.pw.toml"
 hash = "835cd54467fde0a7fd34fc275beda8c7f1b9fe5663bbf51590f42ec783353d01"
-metafile = true
-
-[[files]]
-file = "mods/copperagebackport-neoforge-1-21-1-0-1-5-1-pre.pw.toml"
-hash = "a68d23c6f4c35428acf56782a02e7fa83d8cdc03ec1f88dc4ac655e0510dc262"
 metafile = true
 
 [[files]]
@@ -321,16 +286,6 @@ hash = "3b65f379bda60873e9bf9e28a6941bd2604380692079378767bd2237fa14cf92"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api-0-116-15-2-3-6-1-21-1.pw.toml"
-hash = "898293870e59703b76903147463c879618b874947c36d28a1d7b6c0a343531c0"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast-neoforge-1-6-15-1-21-1.pw.toml"
-hash = "e0b6dcd277c36c1b24917f69d6c8bdc12029cc14451c279ff623d78ce38ef284"
-metafile = true
-
-[[files]]
 file = "mods/interiors-1-21-1-neoforge-0-6-1.pw.toml"
 hash = "bb1882f0607681c2ad3dc85dc036234fe37dfaf4e86ed6f75909ed27247038da"
 metafile = true
@@ -361,11 +316,6 @@ hash = "1d939ed4c1b510ca4231845159a92f3165dccfbbf1753468ec0922265d84f950"
 metafile = true
 
 [[files]]
-file = "mods/lithium-neoforge-0-15-4-mc1-21-1.pw.toml"
-hash = "bf5483a74d2a5491eb061595daf378e315bd90034a40befbd4d5324b4b56d47a"
-metafile = true
-
-[[files]]
 file = "mods/mechanicals-1-21-1-1-1-6.pw.toml"
 hash = "8113535bd758a89bec430a25c0cb3434d61eeb4e518d25218cf22516d814a29d"
 metafile = true
@@ -388,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/name-tag-crafting-backport-1-0-2.pw.toml"
 hash = "e799c982b17da3667015fe79c78aa9ea515aef603b9c78ec015e07358546a5c7"
-metafile = true
-
-[[files]]
-file = "mods/notenoughanimations-neoforge-1-12-7-mc1-21-1.pw.toml"
-hash = "0d92009b8e9ca228d8678d01cf13fcaf56077110daf0c8462f3f2b934ab9b15a"
 metafile = true
 
 [[files]]
@@ -446,11 +391,6 @@ hash = "c18d796012c615fd55d4a942f9d80c7188154baa6ee33886c867bda4c1615ee8"
 metafile = true
 
 [[files]]
-file = "mods/punchy-puppies-2-0-5-neoforge-1-21-1.pw.toml"
-hash = "86bbe461838b85ce4f7458d986a369b0c93d7674e564bdda9b29564ec0e060e6"
-metafile = true
-
-[[files]]
 file = "mods/respackopts-4-14-0-1-21-1-forge-4.pw.toml"
 hash = "3167f728b42d2da7b073a0bd2dfa8724cdef8751893a0010f8400fc09e8e1e53"
 metafile = true
@@ -501,11 +441,6 @@ hash = "4d81692e28fdfe94decf2b42ddc90bcf3b7434a99ba195f6d0f26e075ef3c0aa"
 metafile = true
 
 [[files]]
-file = "mods/spear-backport-neoforge-1-8-0-1-21-1.pw.toml"
-hash = "2f86fde5b3388a71ee85e33e2bc5a87ac06902b4d71b7907e3c4628120c13d9e"
-metafile = true
-
-[[files]]
 file = "mods/struts-1-3-1.pw.toml"
 hash = "45567996ba3804c37e832c6f2ce62125bddfbd1f0f543098ccb1db2e9f3ad91d"
 metafile = true
@@ -513,11 +448,6 @@ metafile = true
 [[files]]
 file = "mods/tfmg-1-21-1-1-3-3a-community.pw.toml"
 hash = "f1599fb612b97a21fe08f9cf589410d5a1eb172e1e7ef5cf6739a4c5edc01edf"
-metafile = true
-
-[[files]]
-file = "mods/tiny-takeover-backport-neoforge-1-21-1-1-8-2.pw.toml"
-hash = "033c84d11726b9485a1639a15d4bb769788b7f17a5d7a571456a78e28d3f9c5f"
 metafile = true
 
 [[files]]
@@ -546,18 +476,8 @@ hash = "770f51192639ce0c85b75cbc9795d61af2e400fa086cb42b2aac1a8e452ccc00"
 metafile = true
 
 [[files]]
-file = "mods/xaeroplus-2-37-2-neoforge-1-21-1-wm1-47-0-mm26-6-0.pw.toml"
-hash = "29460da93fc1a89d8ddfe9f4b9cba06355e7f50ff439bbe25c314221804a6c8a"
-metafile = true
-
-[[files]]
 file = "mods/xaeroworldmap-neoforge-1-21-1-1-47-0.pw.toml"
 hash = "579e1358cd353fb19cd25c4189e5e8a3e06ef81eee888f4ff0287e8d1764bdc7"
-metafile = true
-
-[[files]]
-file = "mods/xaerozoomout-neoforge-1-21-2-0-0.pw.toml"
-hash = "05ca63d57fa7a1d78540686641d938e647b3e6d3ad1464962298a125769be057"
 metafile = true
 
 [[files]]
