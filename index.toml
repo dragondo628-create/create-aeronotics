@@ -101,6 +101,11 @@ hash = "4624dcd8340432071367ea2ee378329b6dee110ac35934438b70d1c48fccaa10"
 metafile = true
 
 [[files]]
+file = "mods/copyfoxies-2-0-0.pw.toml"
+hash = "46c169be58fafeaf1376d81177767d4641e23cf5af9537306cd7ed7f1d62683f"
+metafile = true
+
+[[files]]
 file = "mods/corpse-neoforge-1-21-1-1-1-22.pw.toml"
 hash = "87d71f90301331033338152ad79c6a1f0ec39a4527af6ac1584e2e5309d83f07"
 metafile = true

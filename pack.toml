@@ -1,12 +1,12 @@
 name = "Create Aeronotics"
 author = ""
-version = "1.0.12"
+version = "1.0.13"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0e730fb05342c0a291944885c2fd727db6c4e37eb6d6e9d8ebbbf8b2f1707566"
+hash = "d022ddec8a3299cd3e41671345b728bdcdda6304554f89f3a842b975bc27f2af"
 
 [versions]
 minecraft = "1.21.1"
