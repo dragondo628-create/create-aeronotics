@@ -14,7 +14,7 @@ hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
 
 [[files]]
 file = "kubejs/config/common.json"
-hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+hash = "7578bbfdde99f5b7f5f01d7831aa2cf9aef83f477d621f68f9d2b7c06c3132c1"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -96,8 +96,8 @@ hash = "835cd54467fde0a7fd34fc275beda8c7f1b9fe5663bbf51590f42ec783353d01"
 metafile = true
 
 [[files]]
-file = "mods/copycats-3-0-9-mc-1-21-1-neoforge.pw.toml"
-hash = "3abb84b2b2823d74b2819ae31504dcf573dbd196a149116f04a264ff080932b1"
+file = "mods/copycats-3-0-11-mc-1-21-1-neoforge.pw.toml"
+hash = "f4026584317a76eac46ab74aa66e688774e4113b12887c599580e24234ca4334"
 metafile = true
 
 [[files]]
@@ -206,11 +206,6 @@ hash = "2961df1539370a21da7b63f8cf4c54897d41471d4a70125b701283f2df015e07"
 metafile = true
 
 [[files]]
-file = "mods/createbetterfps-1-21-1-1-1-5.pw.toml"
-hash = "50ad68c93f28265fda552e0f385306eed6443729a72e17f7cef046f983caade3"
-metafile = true
-
-[[files]]
 file = "mods/createbigcannons-5-11-7-mc-1-21-1.pw.toml"
 hash = "e89f781dbcdf95fb0937456c66d8c1092d0d15b2d57f61dbaa65467915b8e1f2"
 metafile = true
@@ -271,11 +266,6 @@ hash = "30363120fe03ff64a2171151b575b542d80c34548de80c28ca1c1393842a5c7c"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons-3-3-3-1-21-1-fabric-neoforge.pw.toml"
-hash = "b4911286fbf7d850680364187456735b9e9a39daaa589a32671e797471f6b0a3"
-metafile = true
-
-[[files]]
 file = "mods/dndesires-1-21-1-2-3a-beta.pw.toml"
 hash = "fa85a26d555ee5120c5493b5a2572ebc572794445529f3216b767e17c0bfc619"
 metafile = true
@@ -286,11 +276,6 @@ hash = "7808131a0b299e5e2a1317455e5608328ec19cad050661619b7e8b2117b32f71"
 metafile = true
 
 [[files]]
-file = "mods/enchdesc-neoforge-1-21-1-21-1-11.pw.toml"
-hash = "a1fa1d24b0bca4a58f9528661802d77b43c581120f93278163255810f0b7a033"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features-3-3-12-1-21-neoforge.pw.toml"
 hash = "6ba1f287c0e8fc596e33156c7fa20b9e56373f3bd7212813072757d8f071eca1"
 metafile = true
@@ -298,11 +283,6 @@ metafile = true
 [[files]]
 file = "mods/entity-texture-features-7-2-7-1-21-neoforge.pw.toml"
 hash = "bf5e114ea01a5c61d3d9c6db386750d936d48808a50425fb77960ff51b91ea92"
-metafile = true
-
-[[files]]
-file = "mods/entityculling-neoforge-1-11-3-mc1-21-1.pw.toml"
-hash = "0644127dc865748132321c9c253e6cb352d8e36aa6619a53f62de4afa501cd44"
 metafile = true
 
 [[files]]
@@ -323,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/inventoryessentials-neoforge-1-21-1-21-1-20.pw.toml"
 hash = "f37c6c6dfa0c877924c463f3351819d62805ee594a8f2d8191ce9a135ea9a940"
-metafile = true
-
-[[files]]
-file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
-hash = "7a8146b9e25966b5172fb584f6d6fdf2fde99588021020735abe461e6392522e"
 metafile = true
 
 [[files]]
@@ -391,8 +366,8 @@ hash = "e799c982b17da3667015fe79c78aa9ea515aef603b9c78ec015e07358546a5c7"
 metafile = true
 
 [[files]]
-file = "mods/octo-arms-1-7-1-mc1-21-1.pw.toml"
-hash = "d4d19e4efc532d83422cd05ca9f7a71106f76674fd978e5a3d45b0c795cac0f2"
+file = "mods/octo-arms-1-8-0-mc1-21-1.pw.toml"
+hash = "bcbfd157dd2dc11ece587f4ebb12eb0695bd33b685be1a4e4b819e2e0e51d52f"
 metafile = true
 
 [[files]]
@@ -468,21 +443,6 @@ metafile = true
 [[files]]
 file = "mods/searchables-neoforge-1-21-1-1-0-2.pw.toml"
 hash = "3e4f10e6a4af780cc628cfec8a59c3aeaf28a986761ab7973168e8571a22b4bc"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra-neoforge-0-9-5-mc1-21-1.pw.toml"
-hash = "fabc18bf3ea03b203419ce4c23881481d9500ad958e57d01b6ae628d3d8213ab"
-metafile = true
-
-[[files]]
-file = "mods/sodium-neoforge-0-8-13-mc1-21-1.pw.toml"
-hash = "a8c458ebb9a371759c12bb2117414e21cf8c6aeeca84d2a59670476c50c4347a"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered-neoforge-1-21-1-1-5-2.pw.toml"
-hash = "32176f7ea943991bacda320b12f10eb9116ec3640531a461d1ffc10b1bc610e3"
 metafile = true
 
 [[files]]
