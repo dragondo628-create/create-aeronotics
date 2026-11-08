@@ -326,6 +326,11 @@ hash = "eb93a038dcc7b47fd1973e7d5e23698f6a61a9daf67771bc932a253ebb7f0dac"
 metafile = true
 
 [[files]]
+file = "mods/jei-1-21-1-neoforge-19-70-0-469.pw.toml"
+hash = "fcbffb799a84e37daf4c308fca5fb73a8470e73ed508687b5e2bdbf2100829fb"
+metafile = true
+
+[[files]]
 file = "mods/kotlinforforge-5-12-0-all.pw.toml"
 hash = "f64a8b997266baea7cbe3add24c60700bf635ed2cd43bcff5a45fbcef5f15ca9"
 metafile = true
@@ -348,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/mechanicals-1-21-1-1-1-6.pw.toml"
 hash = "8113535bd758a89bec430a25c0cb3434d61eeb4e518d25218cf22516d814a29d"
+metafile = true
+
+[[files]]
+file = "mods/mezz-config-1-21-1-neoforge-0-6-11-standalone.pw.toml"
+hash = "8031ecac85b95267d31bc32d545895a64672103822a696e1003cb47bfcfa3234"
 metafile = true
 
 [[files]]

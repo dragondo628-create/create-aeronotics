@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create Aeronotics",
   "author": "",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "selection": {
     "mods": [
       "resourcepacks/3D Harness x Fresh Animations.zip",
@@ -137,7 +137,9 @@
       "mods/cbbees-1.6.1.jar",
       "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
       "mods/kotlinforforge-5.12.0-all.jar",
-      "resourcepacks/Fluid & Foolish 1.0.1.zip"
+      "resourcepacks/Fluid & Foolish 1.0.1.zip",
+      "mods/jei-1.21.1-neoforge-19.70.0.469.jar",
+      "mods/mezz_config-1.21.1-neoforge-0.6.11-standalone.jar"
     ],
     "files": [
       "kubejs/README.txt",
@@ -229,11 +231,13 @@
       "resourcepacks/Icon Fresh 1.2.zip",
       "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "mods/jei-1.21.1-neoforge-19.70.0.469.jar",
       "mods/kotlinforforge-5.12.0-all.jar",
       "mods/kubejs-neoforge-2101.7.2-build.381.jar",
       "mods/lambdynamiclights-4.8.11+1.21.1.jar",
       "mods/libjf-3.17.7+forge.jar",
       "mods/mechanicals-1.21.1-1.1.6.jar",
+      "mods/mezz_config-1.21.1-neoforge-0.6.11-standalone.jar",
       "mods/modefite-neoforge-1.0.1+1.21.1.jar",
       "mods/modelfix-1.21-1.10.jar",
       "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
