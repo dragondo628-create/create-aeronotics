@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create Aeronotics",
   "author": "",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "selection": {
     "mods": [
       "resourcepacks/3D Harness x Fresh Animations.zip",
@@ -240,7 +240,6 @@
       "mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
       "mods/dragonlib-3.0.29+mc1.21.1-neoforge.jar",
       "mods/FarmersDelight-1.21.1-1.3.4.jar",
-      "resourcepacks/Fluid & Foolish 1.0.1.zip",
       "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
       "resourcepacks/FreshAnimations_v1.11.2_1.20+.zip",
       "resourcepacks/FA+Classic_Horses-v1.5.zip",
@@ -274,8 +273,6 @@
       "mods/polymorph-neoforge-1.2.0+1.21.1.jar",
       "mods/polytone-1.21-5.3.6-neoforge.jar",
       "mods/prickle-neoforge-1.21.1-21.1.11.jar",
-      "mods/punchy-3.2-neoforge-1.21.1.jar",
-      "mods/punchy-moves-1.0.8-neoforge-1.21.1.jar",
       "mods/respackopts-4.14.0+1.21.1.forge.4.jar",
       "shaderpacks/rethinking-voxels_r0.1-beta9.zip",
       "mods/rhino-2101.2.8-build.91.jar",
@@ -286,7 +283,6 @@
       "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "mods/SSRD-1.8.8-1.21.1.jar",
       "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
-      "mods/spatial-gui-1.11.0+1.21.1-neoforge.jar",
       "mods/struts-1.3.1.jar",
       "mods/VanillaBackport-neoforge-1.21.1-1.2.2.jar",
       "mods/world-host-0.5.2+1.21.1-neoforge.jar",

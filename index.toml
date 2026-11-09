@@ -436,16 +436,6 @@ hash = "e863ac6a3880959d299896cebda47fbe1a16b7c784983b091ac41942aefa55c5"
 metafile = true
 
 [[files]]
-file = "mods/punchy-3-2-neoforge-1-21-1.pw.toml"
-hash = "4272360fdade4761b39b466fdbb9a5457adc8136123da7ceb7ecf76b95d9b90d"
-metafile = true
-
-[[files]]
-file = "mods/punchy-moves-1-0-8-neoforge-1-21-1.pw.toml"
-hash = "c18d796012c615fd55d4a942f9d80c7188154baa6ee33886c867bda4c1615ee8"
-metafile = true
-
-[[files]]
 file = "mods/respackopts-4-14-0-1-21-1-forge-4.pw.toml"
 hash = "3167f728b42d2da7b073a0bd2dfa8724cdef8751893a0010f8400fc09e8e1e53"
 metafile = true
@@ -488,11 +478,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-neoforge-0-8-13-mc1-21-1.pw.toml"
 hash = "a8c458ebb9a371759c12bb2117414e21cf8c6aeeca84d2a59670476c50c4347a"
-metafile = true
-
-[[files]]
-file = "mods/spatial-gui-1-11-0-1-21-1-neoforge.pw.toml"
-hash = "4d81692e28fdfe94decf2b42ddc90bcf3b7434a99ba195f6d0f26e075ef3c0aa"
 metafile = true
 
 [[files]]
@@ -597,11 +582,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fa-spiders-v2-3-1.pw.toml"
 hash = "077eaec38a5e51c65b169c9f05c4e2eb612f24df9ef03a61d86269daf3f2f389"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fluid-foolish-1-0-1.pw.toml"
-hash = "ea99ad9b3ab947b0364f3b502ada4d881d138fcf9a363927d8169d544541ff01"
 metafile = true
 
 [[files]]
