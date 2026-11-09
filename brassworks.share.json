@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create Aeronotics",
   "author": "",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "selection": {
     "mods": [
       "resourcepacks/3D Harness x Fresh Animations.zip",
@@ -158,7 +158,10 @@
       "mods/copycats-plus-additions-1.5.1-neo.jar",
       "mods/copycats-3.0.11-mc.1.21.1-neoforge.jar",
       "mods/FarmersDelight-1.21.1-1.3.4.jar",
-      "mods/copyfoxies-2.0.0.jar"
+      "mods/copyfoxies-2.0.0.jar",
+      "mods/climbable_ropes-2.2.2.jar",
+      "mods/mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
+      "mods/polytone-1.21-5.3.8-neoforge.jar"
     ],
     "files": [
       "kubejs/README.txt",
@@ -179,7 +182,7 @@
       "mods/balm-neoforge-1.21.1-21.0.67.jar",
       "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
       "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
-      "mods/climbable_ropes-2.2.1.jar",
+      "mods/climbable_ropes-2.2.2.jar",
       "mods/cloth-config-15.0.140-neoforge.jar",
       "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
@@ -262,7 +265,7 @@
       "mods/lambdynamiclights-4.8.11+1.21.1.jar",
       "mods/libjf-3.17.7+forge.jar",
       "mods/mechanicals-1.21.1-1.1.6.jar",
-      "mods/mezz_config-1.21.1-neoforge-0.6.11-standalone.jar",
+      "mods/mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
       "mods/modefite-neoforge-1.0.1+1.21.1.jar",
       "mods/modelfix-1.21-1.10.jar",
       "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
@@ -271,7 +274,7 @@
       "mods/PlayerAnimationLibNeoforge-1.1.6+mc.1.21.1.jar",
       "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
       "mods/polymorph-neoforge-1.2.0+1.21.1.jar",
-      "mods/polytone-1.21-5.3.6-neoforge.jar",
+      "mods/polytone-1.21-5.3.8-neoforge.jar",
       "mods/prickle-neoforge-1.21.1-21.1.11.jar",
       "mods/respackopts-4.14.0+1.21.1.forge.4.jar",
       "shaderpacks/rethinking-voxels_r0.1-beta9.zip",
