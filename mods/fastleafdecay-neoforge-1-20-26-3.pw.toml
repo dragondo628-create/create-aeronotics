@@ -1,0 +1,12 @@
+name = "FastLeafDecay"
+filename = "fastleafdecay-neoforge-1.20-26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FnE6S0Zk/versions/N3onEiRR/fastleafdecay-neoforge-1.20-26.3.jar"
+hash-format = "sha512"
+hash = "e7913f5463bedde2909a0771a6ed4d73fa37467b3faad85d763be9bc14556d2dc05562dfcb581b857a8dfdd014fbb0c6c2bdd824531b7b83062532514e32b0b0"
+
+[update.modrinth]
+mod-id = "FnE6S0Zk"
+version = "N3onEiRR"
