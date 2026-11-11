@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/almanac-neoforge-1-21-1-1-26-11-1.pw.toml"
+hash = "44b8fc223428d35499d1e5c8e04ebd613b95e9e3eaa92fe6c3c1f9f768237bb1"
+metafile = true
+
+[[files]]
 file = "mods/appleskin-neoforge-mc1-21-3-0-9.pw.toml"
 hash = "a4c913e5820e6dbe2757d431483c3b163720918455c6738381df5a1107416b4f"
 metafile = true
@@ -8,6 +13,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-13-0-11-neoforge.pw.toml"
 hash = "e43efff4be014f2684e55308982661b0c3446bb08bbe35a1f7812a017331afc8"
+metafile = true
+
+[[files]]
+file = "mods/armor-set-box-1-0-0-neoforge-1-21-1.pw.toml"
+hash = "7db0e51b201f62afd05a4f31b6e7e211451d343827d58be8782e500b053aae82"
 metafile = true
 
 [[files]]
@@ -33,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles-0-4-7-1-21-1.pw.toml"
 hash = "3143395e066b3d12e7f940e681eedc912f0ab4d1ad12d0d81e12f647151ac708"
+metafile = true
+
+[[files]]
+file = "mods/beltslot-1-21-1-neoforge-1-1-1.pw.toml"
+hash = "3e2456e50fee98b3ad74bb02b9415b446109c4b74fe7a417d187aafa90b7b3da"
 metafile = true
 
 [[files]]
@@ -296,6 +311,16 @@ hash = "7808131a0b299e5e2a1317455e5608328ec19cad050661619b7e8b2117b32f71"
 metafile = true
 
 [[files]]
+file = "mods/dummmmmmy-1-21-2-1-2-neoforge.pw.toml"
+hash = "3112701b935eb256de0d2ee2f4d3d54c828cc7697b27d814640244838bd95af5"
+metafile = true
+
+[[files]]
+file = "mods/enchdesc-neoforge-1-21-1-21-1-11.pw.toml"
+hash = "a1fa1d24b0bca4a58f9528661802d77b43c581120f93278163255810f0b7a033"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features-3-3-12-1-21-neoforge.pw.toml"
 hash = "6ba1f287c0e8fc596e33156c7fa20b9e56373f3bd7212813072757d8f071eca1"
 metafile = true
@@ -303,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/entity-texture-features-7-2-7-1-21-neoforge.pw.toml"
 hash = "bf5e114ea01a5c61d3d9c6db386750d936d48808a50425fb77960ff51b91ea92"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-neoforge-1-11-3-mc1-21-1.pw.toml"
+hash = "0644127dc865748132321c9c253e6cb352d8e36aa6619a53f62de4afa501cd44"
 metafile = true
 
 [[files]]
@@ -356,6 +386,11 @@ hash = "88ce67a644ff425064dc24478ed35e1f603975d4699d6d48946fd7a3ecde45d0"
 metafile = true
 
 [[files]]
+file = "mods/letmedespawn-neoforge-1-21-1-1-26-11-1.pw.toml"
+hash = "bddf7fc311a90421304dfb9c6d902239a79fcfb0f49a07882c7a59430dd8bdf6"
+metafile = true
+
+[[files]]
 file = "mods/libjf-3-17-7-forge.pw.toml"
 hash = "1d939ed4c1b510ca4231845159a92f3165dccfbbf1753468ec0922265d84f950"
 metafile = true
@@ -378,6 +413,16 @@ metafile = true
 [[files]]
 file = "mods/modelfix-1-21-1-10.pw.toml"
 hash = "997243288706e761dc69b77e4da6a6f88733c0d8f1913a529650279fb5291495"
+metafile = true
+
+[[files]]
+file = "mods/moonlight-1-21-1-3-8-3-neoforge.pw.toml"
+hash = "7107439bb572b42adcc022ce162e5b0d66c2c543701b550019e0eaf7d4f8a042"
+metafile = true
+
+[[files]]
+file = "mods/moreoffhandslots-neoforge-21-1-0.pw.toml"
+hash = "8a222c71b730610da33fd93f758da8b7c88a8fa397b7c4b46833d555e576956a"
 metafile = true
 
 [[files]]
@@ -476,6 +521,16 @@ hash = "3e4f10e6a4af780cc628cfec8a59c3aeaf28a986761ab7973168e8571a22b4bc"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip-neoforge-5-1-9-1-21-1.pw.toml"
+hash = "6a2c93f7890f8623677531a020e40a9af2a31c32cafa964e55d71641847b1379"
+metafile = true
+
+[[files]]
+file = "mods/skinlayers3d-neoforge-1-11-4-mc1-21-1.pw.toml"
+hash = "7e40a4d1d2e83d905a8e5ce6638df0c432e0d171398b1cee5ca6797583cd8d81"
+metafile = true
+
+[[files]]
 file = "mods/sodium-neoforge-0-8-13-mc1-21-1.pw.toml"
 hash = "a8c458ebb9a371759c12bb2117414e21cf8c6aeeca84d2a59670476c50c4347a"
 metafile = true
@@ -503,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport-neoforge-1-21-1-1-2-2.pw.toml"
 hash = "8cefd0ef41cd2fded6316c43e63b6a19a4045090687f33661528bffcd05509e8"
+metafile = true
+
+[[files]]
+file = "mods/wearablebanners-neoforge-1-21-1-0-0.pw.toml"
+hash = "820a15cf40000f7c053562eb98c24702b271d012f0ac9d75c3bca396e5179133"
 metafile = true
 
 [[files]]

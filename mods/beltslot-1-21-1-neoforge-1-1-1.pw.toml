@@ -1,0 +1,12 @@
+name = "Belt Slot"
+filename = "beltslot-1.21.1-neoforge-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4fX01z8Z/versions/jW55Uwvv/beltslot-1.21.1-neoforge-1.1.1.jar"
+hash-format = "sha512"
+hash = "1e9dae502dd12e4186ace692878e96f61ac3d35aae8174544594e8c576cbadf039944d41be9549f9ba06ef47459d284d22cd8624a90c47c53528412dcab85fd2"
+
+[update.modrinth]
+mod-id = "4fX01z8Z"
+version = "jW55Uwvv"

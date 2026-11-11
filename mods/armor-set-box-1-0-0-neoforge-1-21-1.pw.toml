@@ -1,0 +1,12 @@
+name = "Armor Set Box"
+filename = "armor_set_box-1.0.0-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "576885058f30b13726f2a7c34e386ea3e0fc24f4"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1544485
+file-id = 8096691

@@ -1,0 +1,12 @@
+name = "Banner Slot"
+filename = "wearablebanners-neoforge-1.21-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LfxMPYIw/versions/w6BJVNeI/wearablebanners-neoforge-1.21-1.0.0.jar"
+hash-format = "sha512"
+hash = "0aab77ee18dd43164d12ba6e627a3c9825095289fa55dba6408eefa56257069e6ca804c899183a6882a85e4fdddc8816a0188dea93f7b838659395cde3b09402"
+
+[update.modrinth]
+mod-id = "LfxMPYIw"
+version = "w6BJVNeI"
