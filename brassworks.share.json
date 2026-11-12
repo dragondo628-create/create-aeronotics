@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create Aeronotics",
   "author": "",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "selection": {
     "mods": [
       "resourcepacks/3D Harness x Fresh Animations.zip",
@@ -153,7 +153,10 @@
       "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
       "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
       "mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
-      "mods/libIPN-neoforge-1.21.1-6.6.3.jar"
+      "mods/libIPN-neoforge-1.21.1-6.6.3.jar",
+      "mods/ArmorQuickSwap-v21.1.2-1.21.1-NeoForge.jar",
+      "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "mods/melody_neoforge_1.0.10_MC_1.21.jar"
     ],
     "files": [
       "kubejs/README.txt",
@@ -174,6 +177,7 @@
       "mods/almanac-neoforge-1.21.1-1.26.11.1.jar",
       "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
       "mods/architectury-13.0.11-neoforge.jar",
+      "mods/ArmorQuickSwap-v21.1.2-1.21.1-NeoForge.jar",
       "mods/azimuth-1.4.10.jar",
       "mods/baguettelib-1.21.1-NeoForge-2.0.7.jar",
       "mods/balm-neoforge-1.21.1-21.0.67.jar",
@@ -270,12 +274,14 @@
       "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
       "mods/jei-1.21.1-neoforge-19.70.0.469.jar",
+      "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
       "mods/kotlinforforge-5.12.0-all.jar",
       "mods/lambdynamiclights-4.8.11+1.21.1.jar",
       "mods/letmedespawn-neoforge-1.21.1-1.26.11.1.jar",
       "mods/libIPN-neoforge-1.21.1-6.6.3.jar",
       "mods/libjf-3.17.7+forge.jar",
       "mods/mechanicals-1.21.1-1.1.6.jar",
+      "mods/melody_neoforge_1.0.10_MC_1.21.jar",
       "mods/mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
       "mods/dummmmmmy-1.21-2.1.2-neoforge.jar",
       "mods/modefite-neoforge-1.0.1+1.21.1.jar",

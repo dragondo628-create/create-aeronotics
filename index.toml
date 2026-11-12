@@ -31,6 +31,11 @@ hash = "e43efff4be014f2684e55308982661b0c3446bb08bbe35a1f7812a017331afc8"
 metafile = true
 
 [[files]]
+file = "mods/armorquickswap-v21-1-2-1-21-1-neoforge.pw.toml"
+hash = "d5e9e777e06276839d0ac16775bfa8e7e687b2a0ba188aed35b08b136140c37d"
+metafile = true
+
+[[files]]
 file = "mods/azimuth-1-4-10.pw.toml"
 hash = "2c0bb26a14a923647ea820e718313c3b6bf45bcc793b1bcc63808da958aab58f"
 metafile = true
@@ -426,6 +431,11 @@ hash = "fcbffb799a84e37daf4c308fca5fb73a8470e73ed508687b5e2bdbf2100829fb"
 metafile = true
 
 [[files]]
+file = "mods/konkrete-neoforge-1-9-9-mc-1-21.pw.toml"
+hash = "19837bab30b529e580f7d898cf7079f2d4c94ce541c5cfab2fd4f248302b6c3e"
+metafile = true
+
+[[files]]
 file = "mods/kotlinforforge-5-12-0-all.pw.toml"
 hash = "f64a8b997266baea7cbe3add24c60700bf635ed2cd43bcff5a45fbcef5f15ca9"
 metafile = true
@@ -453,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/mechanicals-1-21-1-1-1-6.pw.toml"
 hash = "8113535bd758a89bec430a25c0cb3434d61eeb4e518d25218cf22516d814a29d"
+metafile = true
+
+[[files]]
+file = "mods/melody-neoforge-1-0-10-mc-1-21.pw.toml"
+hash = "32c75462351d9721c61e48320227ba36e6b38a566a816d890bce51968abb6777"
 metafile = true
 
 [[files]]

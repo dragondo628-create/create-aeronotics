@@ -1,0 +1,12 @@
+name = "Armor Quick Swap"
+filename = "ArmorQuickSwap-v21.1.2-1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YxCEfYbF/versions/DZi1Jm4Y/ArmorQuickSwap-v21.1.2-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "b2930e7d0b9e3927df4f8c93420d87149d067e195204f47452167bcf54b3fe89ef6696e6bd473150473ef5a6b50a0ef0da58c52495ac38e1ca60044657629cf7"
+
+[update.modrinth]
+mod-id = "YxCEfYbF"
+version = "DZi1Jm4Y"
