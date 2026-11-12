@@ -1,0 +1,12 @@
+name = "Cinematic Interactions: Create"
+filename = "cinecreate-0.1.1-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "b59ac21ff69ec3c687692eab5aecbb170330b167"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1777171
+file-id = 9431385

@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create Aeronotics",
   "author": "",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "selection": {
     "mods": [
       "resourcepacks/3D Harness x Fresh Animations.zip",
@@ -159,7 +159,9 @@
       "mods/melody_neoforge_1.0.10_MC_1.21.jar",
       "mods/DetailArmorBarReconstructed-5.3.3-alpha.1+1.21.1-neoforge.jar",
       "mods/EclipseUI-neoforge-1.0.5-neoforge-1.21.1.jar",
-      "mods/wardrobe-1.0.0-neoforge-1.21.1.jar"
+      "mods/wardrobe-1.0.0-neoforge-1.21.1.jar",
+      "mods/Cinematic Interaction-NeoForge-1.21.1-0.18.30.jar",
+      "mods/cinecreate-0.1.1-neoforge-1.21.1.jar"
     ],
     "files": [
       "kubejs/README.txt",
@@ -187,6 +189,8 @@
       "mods/beltslot-1.21.1-neoforge-1.1.1.jar",
       "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
       "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "mods/Cinematic Interaction-NeoForge-1.21.1-0.18.30.jar",
+      "mods/cinecreate-0.1.1-neoforge-1.21.1.jar",
       "mods/climbable_ropes-2.2.2.jar",
       "mods/cloth-config-15.0.140-neoforge.jar",
       "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
@@ -275,7 +279,6 @@
       "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
       "resourcepacks/Icon Fresh 1.2.zip",
       "mods/inventoryessentials-neoforge-1.21.1-21.1.20.jar",
-      "mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
       "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
       "mods/jei-1.21.1-neoforge-19.70.0.469.jar",

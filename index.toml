@@ -91,6 +91,16 @@ hash = "582b95f1bb08c8f15df126655f08cc6838bcc98a5179da2a65869b92af5bc0b2"
 metafile = true
 
 [[files]]
+file = "mods/cinecreate-0-1-1-neoforge-1-21-1.pw.toml"
+hash = "b96fb1ae00b2e650727d044a622853bc9b9705ee9fcddc53233339eb8a6b296b"
+metafile = true
+
+[[files]]
+file = "mods/cinematic-interaction-neoforge-1-21-1-0-18-30.pw.toml"
+hash = "a7d44b11a0da1ee2563c5bd42e7d1cfd7b2106c93ef835c46600a81bc9edfe7a"
+metafile = true
+
+[[files]]
 file = "mods/climbable-ropes-2-2-2.pw.toml"
 hash = "c618d64e3f70068694aa95143987d4573f615cec13ddcffe253eb30ad3daac4f"
 metafile = true
@@ -152,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-1-21-1-6-0-10.pw.toml"
-hash = "e9ad0b607d89f85b27ec14444b10ff6952cfdb79c6e6f0be4e3e61110b62e1f7"
+hash = "ebdda79db558d7c222be3b12be52350856bf07f6021d0b84419dfc7312969c00"
 metafile = true
 
 [[files]]
@@ -413,11 +423,6 @@ metafile = true
 [[files]]
 file = "mods/inventoryessentials-neoforge-1-21-1-21-1-20.pw.toml"
 hash = "f37c6c6dfa0c877924c463f3351819d62805ee594a8f2d8191ce9a135ea9a940"
-metafile = true
-
-[[files]]
-file = "mods/inventoryprofilesnext-neoforge-1-21-1-2-2-5.pw.toml"
-hash = "b631186f87c45a08f213d356820a3756f388f1a5e2238a5a76cef7ffe38ee13b"
 metafile = true
 
 [[files]]
