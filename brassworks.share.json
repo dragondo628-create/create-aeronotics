@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create Aeronotics",
   "author": "",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "selection": {
     "mods": [
       "resourcepacks/3D Harness x Fresh Animations.zip",
@@ -151,7 +151,9 @@
       "mods/XaeroHeadTracker-2.3.0-neoforge-1.21.1.jar",
       "mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
       "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
-      "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+      "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "mods/libIPN-neoforge-1.21.1-6.6.3.jar"
     ],
     "files": [
       "kubejs/README.txt",
@@ -183,7 +185,6 @@
       "mods/cloth-config-15.0.140-neoforge.jar",
       "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "mods/collective-1.21.1-8.86.jar",
-      "mods/commandkeys-neoforge-2.4.1+1.21.1.jar",
       "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
       "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
       "mods/ConvenientEffects-v21.1.4-1.21.1-NeoForge.jar",
@@ -265,12 +266,14 @@
       "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
       "resourcepacks/Icon Fresh 1.2.zip",
       "mods/inventoryessentials-neoforge-1.21.1-21.1.20.jar",
+      "mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
       "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
       "mods/jei-1.21.1-neoforge-19.70.0.469.jar",
       "mods/kotlinforforge-5.12.0-all.jar",
       "mods/lambdynamiclights-4.8.11+1.21.1.jar",
       "mods/letmedespawn-neoforge-1.21.1-1.26.11.1.jar",
+      "mods/libIPN-neoforge-1.21.1-6.6.3.jar",
       "mods/libjf-3.17.7+forge.jar",
       "mods/mechanicals-1.21.1-1.1.6.jar",
       "mods/mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",

@@ -111,11 +111,6 @@ hash = "c2902e45eca7a8db2f1801fe3f8d4bd61c66abc8de3a7f7d80fd41c61c1f31bc"
 metafile = true
 
 [[files]]
-file = "mods/commandkeys-neoforge-2-4-1-1-21-1.pw.toml"
-hash = "ef0cb91987441a67222ad05421c2490115bdd9246f8d74c2bd70b19487a1ea2d"
-metafile = true
-
-[[files]]
 file = "mods/controlling-neoforge-1-21-1-19-0-5.pw.toml"
 hash = "835cd54467fde0a7fd34fc275beda8c7f1b9fe5663bbf51590f42ec783353d01"
 metafile = true
@@ -411,6 +406,11 @@ hash = "f37c6c6dfa0c877924c463f3351819d62805ee594a8f2d8191ce9a135ea9a940"
 metafile = true
 
 [[files]]
+file = "mods/inventoryprofilesnext-neoforge-1-21-1-2-2-5.pw.toml"
+hash = "b631186f87c45a08f213d356820a3756f388f1a5e2238a5a76cef7ffe38ee13b"
+metafile = true
+
+[[files]]
 file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
 hash = "7a8146b9e25966b5172fb584f6d6fdf2fde99588021020735abe461e6392522e"
 metafile = true
@@ -438,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/letmedespawn-neoforge-1-21-1-1-26-11-1.pw.toml"
 hash = "bddf7fc311a90421304dfb9c6d902239a79fcfb0f49a07882c7a59430dd8bdf6"
+metafile = true
+
+[[files]]
+file = "mods/libipn-neoforge-1-21-1-6-6-3.pw.toml"
+hash = "c6255f8dd869f1ac0d01f8015f46a8116f8654a11a5bce02a99f7696d27c8da6"
 metafile = true
 
 [[files]]
