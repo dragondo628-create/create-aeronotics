@@ -31,11 +31,6 @@ hash = "e43efff4be014f2684e55308982661b0c3446bb08bbe35a1f7812a017331afc8"
 metafile = true
 
 [[files]]
-file = "mods/armorquickswap-v21-1-2-1-21-1-neoforge.pw.toml"
-hash = "d5e9e777e06276839d0ac16775bfa8e7e687b2a0ba188aed35b08b136140c37d"
-metafile = true
-
-[[files]]
 file = "mods/azimuth-1-4-10.pw.toml"
 hash = "2c0bb26a14a923647ea820e718313c3b6bf45bcc793b1bcc63808da958aab58f"
 metafile = true
@@ -321,6 +316,11 @@ hash = "30363120fe03ff64a2171151b575b542d80c34548de80c28ca1c1393842a5c7c"
 metafile = true
 
 [[files]]
+file = "mods/detailarmorbarreconstructed-5-3-3-alpha-1-1-21-1-neoforge.pw.toml"
+hash = "8969c4b6235e63156f6115aedf2795ff33c151e74d2ee799b30c3903a061fb7d"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons-3-3-3-1-21-1-fabric-neoforge.pw.toml"
 hash = "b4911286fbf7d850680364187456735b9e9a39daaa589a32671e797471f6b0a3"
 metafile = true
@@ -338,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/dummmmmmy-1-21-2-1-2-neoforge.pw.toml"
 hash = "3112701b935eb256de0d2ee2f4d3d54c828cc7697b27d814640244838bd95af5"
+metafile = true
+
+[[files]]
+file = "mods/eclipseui-neoforge-1-0-5-neoforge-1-21-1.pw.toml"
+hash = "bc5b7bb7e207ffe8ee1fee3fe56ed23b32e7666d8bac8b596d54058bdfda96c8"
 metafile = true
 
 [[files]]
@@ -638,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport-neoforge-1-21-1-1-2-2.pw.toml"
 hash = "8cefd0ef41cd2fded6316c43e63b6a19a4045090687f33661528bffcd05509e8"
+metafile = true
+
+[[files]]
+file = "mods/wardrobe-1-0-0-neoforge-1-21-1.pw.toml"
+hash = "0af3be4ca121388021acf92485f599b19f94cd6cce5fa6441fc461caeee3a384"
 metafile = true
 
 [[files]]

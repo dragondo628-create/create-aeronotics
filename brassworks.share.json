@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create Aeronotics",
   "author": "",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "selection": {
     "mods": [
       "resourcepacks/3D Harness x Fresh Animations.zip",
@@ -156,7 +156,10 @@
       "mods/libIPN-neoforge-1.21.1-6.6.3.jar",
       "mods/ArmorQuickSwap-v21.1.2-1.21.1-NeoForge.jar",
       "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
-      "mods/melody_neoforge_1.0.10_MC_1.21.jar"
+      "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "mods/DetailArmorBarReconstructed-5.3.3-alpha.1+1.21.1-neoforge.jar",
+      "mods/EclipseUI-neoforge-1.0.5-neoforge-1.21.1.jar",
+      "mods/wardrobe-1.0.0-neoforge-1.21.1.jar"
     ],
     "files": [
       "kubejs/README.txt",
@@ -177,7 +180,6 @@
       "mods/almanac-neoforge-1.21.1-1.26.11.1.jar",
       "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
       "mods/architectury-13.0.11-neoforge.jar",
-      "mods/ArmorQuickSwap-v21.1.2-1.21.1-NeoForge.jar",
       "mods/azimuth-1.4.10.jar",
       "mods/baguettelib-1.21.1-NeoForge-2.0.7.jar",
       "mods/balm-neoforge-1.21.1-21.0.67.jar",
@@ -245,8 +247,10 @@
       "mods/curios-neoforge-9.5.1+1.21.1.jar",
       "mods/cushionbackport-1.21.1-NeoForge-1.0.5.jar",
       "mods/dap-ur-homie-1.21.1-neoforge-3.1.1.jar",
+      "mods/DetailArmorBarReconstructed-5.3.3-alpha.1+1.21.1-neoforge.jar",
       "mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
       "mods/dragonlib-3.0.29+mc1.21.1-neoforge.jar",
+      "mods/EclipseUI-neoforge-1.0.5-neoforge-1.21.1.jar",
       "mods/enchantingcommands-1.21.1-3.8.jar",
       "mods/enchdesc-neoforge-1.21.1-21.1.11.jar",
       "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
@@ -267,6 +271,7 @@
       "resourcepacks/FA+Spiders-v2.3.1.zip",
       "resourcepacks/Fresh Ores and Ingots.zip",
       "mods/fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
+      "mods/wardrobe-1.0.0-neoforge-1.21.1.jar",
       "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
       "resourcepacks/Icon Fresh 1.2.zip",
       "mods/inventoryessentials-neoforge-1.21.1-21.1.20.jar",

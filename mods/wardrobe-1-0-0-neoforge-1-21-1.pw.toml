@@ -1,0 +1,12 @@
+name = "Gear Wardrobe"
+filename = "wardrobe-1.0.0-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VC2uQ1Sv/versions/xG2vpgx0/wardrobe-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "af45ea0ab80755c87208d23f0d45ff64807e8902c5acbb4df998c64d9c617518a46bd4654da001ba0c77263c19274bba96807eae057ee1d3c0800d8f2d0806fc"
+
+[update.modrinth]
+mod-id = "VC2uQ1Sv"
+version = "xG2vpgx0"
