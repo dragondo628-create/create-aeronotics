@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-1-21-1-6-0-10.pw.toml"
-hash = "ebdda79db558d7c222be3b12be52350856bf07f6021d0b84419dfc7312969c00"
+hash = "e9ad0b607d89f85b27ec14444b10ff6952cfdb79c6e6f0be4e3e61110b62e1f7"
 metafile = true
 
 [[files]]
@@ -168,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-toolgun-0-3-9.pw.toml"
 hash = "4d4b67536d05e26f3b91cfcbcf7a6cf8c5ab79b79141bf371fe7d6322a698026"
+metafile = true
+
+[[files]]
+file = "mods/create-aquatic-ambitions-1-21-1-2-0-4.pw.toml"
+hash = "d563f3507e3d146917f5aff8c8b7cbe120082c35d8a3b36886d451804ca7db71"
 metafile = true
 
 [[files]]
@@ -263,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/createdragonsplus-1-11-9.pw.toml"
 hash = "9d9e8c8183bb395cec99fba8ccf99cfba5c5da81d445d9f4b8e8539db06ba228"
+metafile = true
+
+[[files]]
+file = "mods/createframed-1-21-1-1-8-2.pw.toml"
+hash = "03be01e2bdacfbe3a14f28b12442b16a8817842a7eb9e5e17365f197e40c8f71"
 metafile = true
 
 [[files]]
@@ -668,6 +678,11 @@ metafile = true
 [[files]]
 file = "mods/world-host-0-5-2-1-21-1-neoforge.pw.toml"
 hash = "7901ecd685f309cf09454a647419c6e2315dab06feaea22a640bb58a1ab2e32d"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-mod-7-3-8.pw.toml"
+hash = "9c3d070f09e21dbfe10802496bb38e6b17ef7ef6b7f554cdd00940031dfb96a0"
 metafile = true
 
 [[files]]
