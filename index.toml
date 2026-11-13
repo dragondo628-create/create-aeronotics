@@ -351,6 +351,21 @@ hash = "3112701b935eb256de0d2ee2f4d3d54c828cc7697b27d814640244838bd95af5"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers-neoforge-1-21-1-1-1-49.pw.toml"
+hash = "80a425574914d12744c09403151425a1e07ef6c83ad04945083f199d054d8924"
+metafile = true
+
+[[files]]
+file = "mods/easyanvils-v21-1-0-1-21-1-neoforge.pw.toml"
+hash = "85464de6289dec0419b39d164fd2ddb9bf313483d37ab7baf64c3cfd6a052363"
+metafile = true
+
+[[files]]
+file = "mods/easybuilding-neoforge-1-21-1-v1-1.pw.toml"
+hash = "621b5523228e101197f56b33e4088732f3788fdcdbdecb7fb43d0e4a982711b7"
+metafile = true
+
+[[files]]
 file = "mods/eclipseui-neoforge-1-0-5-neoforge-1-21-1.pw.toml"
 hash = "bc5b7bb7e207ffe8ee1fee3fe56ed23b32e7666d8bac8b596d54058bdfda96c8"
 metafile = true
