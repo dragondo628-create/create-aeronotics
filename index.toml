@@ -56,11 +56,6 @@ hash = "3143395e066b3d12e7f940e681eedc912f0ab4d1ad12d0d81e12f647151ac708"
 metafile = true
 
 [[files]]
-file = "mods/beltslot-1-21-1-neoforge-1-1-1.pw.toml"
-hash = "3e2456e50fee98b3ad74bb02b9415b446109c4b74fe7a417d187aafa90b7b3da"
-metafile = true
-
-[[files]]
 file = "mods/bigcontraptions-neoforge-1-0.pw.toml"
 hash = "619870c1577c4209428557357fb404843bb877fcbfad832e989b8d1f68485901"
 metafile = true
@@ -513,11 +508,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight-1-21-1-3-8-3-neoforge.pw.toml"
 hash = "7107439bb572b42adcc022ce162e5b0d66c2c543701b550019e0eaf7d4f8a042"
-metafile = true
-
-[[files]]
-file = "mods/moreoffhandslots-neoforge-21-1-0.pw.toml"
-hash = "8a222c71b730610da33fd93f758da8b7c88a8fa397b7c4b46833d555e576956a"
 metafile = true
 
 [[files]]
