@@ -91,11 +91,6 @@ hash = "582b95f1bb08c8f15df126655f08cc6838bcc98a5179da2a65869b92af5bc0b2"
 metafile = true
 
 [[files]]
-file = "mods/cinecreate-0-1-1-neoforge-1-21-1.pw.toml"
-hash = "b96fb1ae00b2e650727d044a622853bc9b9705ee9fcddc53233339eb8a6b296b"
-metafile = true
-
-[[files]]
 file = "mods/cinematic-interaction-neoforge-1-21-1-0-18-30.pw.toml"
 hash = "a7d44b11a0da1ee2563c5bd42e7d1cfd7b2106c93ef835c46600a81bc9edfe7a"
 metafile = true
@@ -368,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/eclipseui-neoforge-1-0-5-neoforge-1-21-1.pw.toml"
 hash = "bc5b7bb7e207ffe8ee1fee3fe56ed23b32e7666d8bac8b596d54058bdfda96c8"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-golden-apple-addition-2-0.pw.toml"
+hash = "24ecc7678c10b80fafec5158df8e9dfc85b9b83c4ee9d8c7214f943c2318e47c"
 metafile = true
 
 [[files]]
