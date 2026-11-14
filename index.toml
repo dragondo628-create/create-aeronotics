@@ -86,11 +86,6 @@ hash = "582b95f1bb08c8f15df126655f08cc6838bcc98a5179da2a65869b92af5bc0b2"
 metafile = true
 
 [[files]]
-file = "mods/cinematic-interaction-neoforge-1-21-1-0-18-30.pw.toml"
-hash = "a7d44b11a0da1ee2563c5bd42e7d1cfd7b2106c93ef835c46600a81bc9edfe7a"
-metafile = true
-
-[[files]]
 file = "mods/climbable-ropes-2-2-2.pw.toml"
 hash = "c618d64e3f70068694aa95143987d4573f615cec13ddcffe253eb30ad3daac4f"
 metafile = true
